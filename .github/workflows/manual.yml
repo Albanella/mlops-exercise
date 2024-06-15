@@ -6,8 +6,6 @@ python util/generate.py
 
 python app.py
 
-Model accuracy: <some value between  and 1>
-
 pytest
 
 name: Manually triggered workflow
